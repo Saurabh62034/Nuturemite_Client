@@ -1,0 +1,11 @@
+.home {
+  background-color: #f5cac3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main {
+  background-color: #f7ede2;
+
+  border-radius: 30px;
+}
